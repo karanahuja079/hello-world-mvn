@@ -8,5 +8,6 @@ git clone -b hello-world-maven https://github.com/vigneshsweekaran/hello-world.g
 ### To generate the package
 ```
 mvn clean package
+#
 ```
 ### War file is generated in target/hello-world.war
